@@ -1,0 +1,4 @@
+- javac para compilar o ".java"
+- javap para ler o ".class"
+
+- java para rodar

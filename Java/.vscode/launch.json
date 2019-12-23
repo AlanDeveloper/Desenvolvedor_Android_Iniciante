@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Funcoes",
+            "request": "launch",
+            "mainClass": "Funcoes",
+            "projectName": "Java_8668b188"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TiposPrimitivos",
+            "request": "launch",
+            "mainClass": "TiposPrimitivos",
+            "projectName": "Java_8668b188"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Strings",
+            "request": "launch",
+            "mainClass": "Strings",
+            "projectName": "Java_8668b188"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InformacoesUsuario",
+            "request": "launch",
+            "mainClass": "InformacoesUsuario",
+            "projectName": "Java_8668b188"
+        }
+    ]
+}
