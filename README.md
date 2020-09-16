@@ -2,6 +2,6 @@
  
 Curso Udemy - Instrutor : Gabriel Ferrari
 
-Engine: Android Studio
+IDE: Android Studio
 
-https://developer.android.com/studio
+Link para o curso: https://www.udemy.com/course/desenvolvedor-android-iniciante/
